@@ -1,4 +1,4 @@
-# Syntecxhub_Simple_Calculator 
+Simple_Calculator 
 # Description
 This project is a Python-based calculator that performs basic arithmetic
 operations such as addition, substraction, multiplication, and division.
